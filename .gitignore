@@ -1,3 +1,5 @@
 myvenv/
 .vs
 MC2-Image-Data
+.vscode/
+__pycache__/
